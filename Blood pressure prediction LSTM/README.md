@@ -64,20 +64,7 @@ Hypertension is a major contributor to cardiovascular disease and early detectio
 
 ---
 
-## 🚀 Project Structure
 
-bp-prediction-genai/
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks for exploration & modeling
-├── src/ # Source code
-│ ├── model/ # LSTM training and evaluation
-│ ├── explainability/ # SHAP & attention interpretability
-│ ├── genai/ # LLM interface, RAG logic
-│ └── api/ # FastAPI endpoints
-├── vector_store/ # FAISS index for RAG
-├── Dockerfile # Container setup
-├── requirements.txt # Python dependencies
-└── README.md # Project overview
 
 
 
